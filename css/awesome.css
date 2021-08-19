@@ -1,0 +1,46 @@
+.awesome {
+  padding: 100px 0;
+}
+.title {
+  font-size: 36px;
+  color: rgba(33, 33, 33, 1);
+  text-transform: uppercase;
+  text-align: center;
+}
+.line {
+  width: 67px;
+  height: 2px;
+  background-color: rgb(255, 0, 149);
+  margin: 30px auto;
+}
+.awesome-discr {
+  width: 363px;
+  margin: auto;
+}
+.awesome-discr p {
+  text-align: center;
+}
+ .awesome-row {
+}
+.awesome-item {
+  width: 350px;
+}
+.awesome-item__img {
+  height: 70px;
+  width: 70px;
+  border: 1px solid rgb(255, 0, 149);
+  border-radius: 50%;
+  margin: auto;
+}
+.lamp {
+  display: block;
+  margin: 17px auto;
+}
+.awesome-item__title {
+  text-align: center;
+  margin-top: 20px;
+}
+.awesome-item__text p {
+  text-align: center;
+  margin-top: 20px;
+}
